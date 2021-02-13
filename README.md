@@ -1,5 +1,5 @@
 # CreationsinC
-This repo contains C programs I have written in my Computer Science I and II for projects and assignments. 
+This repo contains C programs I have written as SI Examples for Computer Science I and II. 
 
 The Topics covered 
   - Dynamic Memory Allocation (Dynamix_Mem_Allocation.c)
